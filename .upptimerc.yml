@@ -51,7 +51,7 @@ status-website:
   introMessage:
   navbar:
     - title: Status
-      href: /upptimemonitoring
+      href: https://structura.ws/upptimemonitoring
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
