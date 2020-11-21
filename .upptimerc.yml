@@ -76,7 +76,7 @@ assignees: # Users to assign downtime issues (optional)
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: structura.ws
+  # cname: my.domain.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptimemonitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
@@ -85,7 +85,7 @@ status-website:
   introMessage:
   navbar:
     - title: Status
-      href: https://structura.ws/upptimemonitoring
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
