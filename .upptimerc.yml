@@ -23,11 +23,14 @@ sites:
   - name: Secret Site
     url: $SECRET_SITE
 
+assignees: # Users to assign downtime issues (optional)
+  - alexandervantrijffel
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: structura.ws
+  # cname: structura.ws
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /upptimemonitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Upptime monitoring"
