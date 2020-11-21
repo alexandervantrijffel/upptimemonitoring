@@ -5,7 +5,7 @@
     "slug": "structura",
     "status": "up",
     "uptime": "100.00",
-    "time": 302
+    "time": 288
   },
   {
     "name": "Last Noted Web",
@@ -13,23 +13,23 @@
     "slug": "last-noted-web",
     "status": "up",
     "uptime": "100.00",
-    "time": 489
+    "time": 385
   },
   {
-    "name": "Last Noted eventreporter",
+    "name": "Last Noted Eventreporter",
     "url": "https://lastnoted.com/eventreporter",
     "slug": "last-noted-eventreporter",
     "status": "up",
     "uptime": "100.00",
-    "time": 819
+    "time": 705
   },
   {
-    "name": "Last Noted eventsink",
+    "name": "Last Noted Eventsink",
     "url": "https://lastnoted.com/eventsink",
     "slug": "last-noted-eventsink",
     "status": "up",
     "uptime": "100.00",
-    "time": 811
+    "time": 699
   },
   {
     "name": "Smith and Doe Web",
@@ -37,7 +37,7 @@
     "slug": "smith-and-doe-web",
     "status": "up",
     "uptime": "100.00",
-    "time": 1223
+    "time": 1144
   },
   {
     "name": "Smith and Doe Privacy API",
@@ -45,7 +45,7 @@
     "slug": "smith-and-doe-privacy-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 368
+    "time": 341
   },
   {
     "name": "Craftify",
@@ -53,22 +53,46 @@
     "slug": "craftify",
     "status": "up",
     "uptime": "100.00",
-    "time": 569
+    "time": 635
   },
   {
-    "name": "ProSim Wordpress",
-    "url": "https://news.ycombinator.com",
-    "slug": "pro-sim-wordpress",
+    "name": "ProSim Home",
+    "url": "https://prosim-ar.com",
+    "slug": "pro-sim-home",
     "status": "up",
     "uptime": "100.00",
-    "time": 408
+    "time": 820
   },
   {
-    "name": "ProSim API#1",
-    "url": "$SECRETURL_PROSIM_FORTHEMAKERSAPI",
-    "slug": "pro-sim-api-1",
+    "name": "ProSim Forum",
+    "url": "https://forum.prosim-ar.com",
+    "slug": "pro-sim-forum",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 914
+  },
+  {
+    "name": "ProSim Shop",
+    "url": "https://shop.prosim-ar.com",
+    "slug": "pro-sim-shop",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 824
+  },
+  {
+    "name": "ProSim Downloads",
+    "url": "http://cdndl.prosim-ar.com/ProSimB738/",
+    "slug": "pro-sim-downloads",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 101
+  },
+  {
+    "name": "ProSim lic API#1",
+    "url": "$SECRETURL_PROSIM_LICAPI1",
+    "slug": "pro-sim-lic-api-1",
     "status": "down",
-    "uptime": "6.82",
+    "uptime": "15.94",
     "time": 0
   }
 ]
