@@ -92,7 +92,7 @@
     "url": "$SECRETURL_PROSIM_LICAPI1",
     "slug": "pro-sim-lic-api-1",
     "status": "down",
-    "uptime": "-11376.18",
+    "uptime": "-6463.30",
     "time": 0
   },
   {
@@ -100,7 +100,7 @@
     "url": "https://processxray.deloitte.com/x/process-x-ray/",
     "slug": "deloitte-process-x-ray",
     "status": "down",
-    "uptime": "0.39",
+    "uptime": "0.51",
     "time": 0
   },
   {
