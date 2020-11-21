@@ -20,8 +20,8 @@ sites:
     url: https://craftify.nl   
   - name: ProSim Wordpress
     url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: ProSim API#1
+    url: $SECRETURL_PROSIM_FORTHEMAKERSAPI
 
 assignees: # Users to assign downtime issues (optional)
   - alexandervantrijffel
@@ -37,7 +37,7 @@ status-website:
   introMessage:
   navbar:
     - title: Status
-      href: /
+      href: /upptimemonitoring
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
