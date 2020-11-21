@@ -6,37 +6,69 @@ repo: upptimemonitoring # Your Github repository name
 sites:
   - name: Structura
     url: https://structura.ws
+    expectedStatusCodes:
+      - 200
   - name: Last Noted Web
     url: https://lastnoted.com
+    expectedStatusCodes:
+      - 200
   - name: Last Noted Eventreporter
     url: https://lastnoted.com/eventreporter
+    expectedStatusCodes:
+      - 200
   - name: Last Noted Eventsink
     url: https://lastnoted.com/eventsink
+    expectedStatusCodes:
+      - 200
   - name: Smith and Doe Web
     url: https://www.smithanddoe.com
+    expectedStatusCodes:
+      - 200
   - name: Smith and Doe Privacy API
     url: https://www.smithanddoe.com/privacy/API/QuickScanModel
+    expectedStatusCodes:
+      - 200
   - name: Craftify
     url: https://craftify.nl
+    expectedStatusCodes:
+      - 200
   - name: ProSim Home
     url: https://prosim-ar.com
+    expectedStatusCodes:
+      - 200
   - name: ProSim Forum
     url: https://forum.prosim-ar.com
+    expectedStatusCodes:
+      - 200
   - name: ProSim Shop
     url: https://shop.prosim-ar.com
+    expectedStatusCodes:
+      - 200
   - name: ProSim Downloads
     url: https://cdndl.prosim-ar.com/ProSimB738
+    expectedStatusCodes:
+      - 200
   - name: ProSim lic API#1
     url: $SECRETURL_PROSIM_LICAPI1
+    expectedStatusCodes:
+      - 200
   - name: Deloitte Process X-Ray
     url: https://processxray.deloitte.com/x/process-x-ray
+    expectedStatusCodes:
+      - 200
   - name: TOP Onions
     url: https://www.toponions.com
+    expectedStatusCodes:
+      - 200
   - name: TOP Taste
     url: https://www.top-taste.com
+    expectedStatusCodes:
+      - 200
   - name: Lion Foods
     url: https://lionfoods.nl
-
+    expectedStatusCodes:
+      - 200
+      
 user-agent: alexandervantrijffel # fit git api requests
 
 assignees: # Users to assign downtime issues (optional)
