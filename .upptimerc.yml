@@ -8,9 +8,9 @@ sites:
     url: https://structura.ws
   - name: Last Noted Web
     url: https://lastnoted.com
-  - name: Last Noted eventreporter
+  - name: Last Noted Eventreporter
     url: https://lastnoted.com/eventreporter
-  - name: Last Noted eventsink
+  - name: Last Noted Eventsink
     url: https://lastnoted.com/eventsink
   - name: Smith and Doe Web
     url: https://www.smithanddoe.com
@@ -18,10 +18,16 @@ sites:
     url: https://www.smithanddoe.com/privacy/API/QuickScanModel
   - name: Craftify
     url: https://craftify.nl   
-  - name: ProSim Wordpress
-    url: https://news.ycombinator.com
-  - name: ProSim API#1
-    url: $SECRETURL_PROSIM_FORTHEMAKERSAPI
+  - name: ProSim Home
+    url: https://prosim-ar.com
+  - name: ProSim Forum
+    url: https://forum.prosim-ar.com
+  - name: ProSim Shop
+    url: https://shop.prosim-ar.com
+  - name: ProSim Downloads
+    url: http://cdndl.prosim-ar.com/ProSimB738/
+  - name: ProSim lic API#1
+    url: $SECRETURL_PROSIM_LICAPI1
 
 assignees: # Users to assign downtime issues (optional)
   - alexandervantrijffel
