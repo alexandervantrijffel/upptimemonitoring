@@ -1,42 +1,74 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Structura",
+    "url": "https://structura.ws",
+    "slug": "structura",
     "status": "up",
     "uptime": "100.00",
-    "time": 87
+    "time": 334
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Last Noted Web",
+    "url": "https://lastnoted.com",
+    "slug": "last-noted-web",
     "status": "up",
     "uptime": "100.00",
-    "time": 133
+    "time": 560
   },
   {
-    "name": "Hacker News",
+    "name": "Last Noted eventreporter",
+    "url": "https://lastnoted.com/eventreporter",
+    "slug": "last-noted-eventreporter",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 836
+  },
+  {
+    "name": "Last Noted eventsink",
+    "url": "https://lastnoted.com/eventsink",
+    "slug": "last-noted-eventsink",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 812
+  },
+  {
+    "name": "Smith and Doe Web",
+    "url": "https://www.smithanddoe.com",
+    "slug": "smith-and-doe-web",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1322
+  },
+  {
+    "name": "Smith and Doe Privacy API",
+    "url": "https://www.smithanddoe.com/privacy/API/QuickScanModel",
+    "slug": "smith-and-doe-privacy-api",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 350
+  },
+  {
+    "name": "Craftify",
+    "url": "https://craftify.nl",
+    "slug": "craftify",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 793
+  },
+  {
+    "name": "ProSim Wordpress",
     "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "slug": "pro-sim-wordpress",
     "status": "up",
     "uptime": "100.00",
-    "time": 341
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "98.31",
-    "time": 0
+    "time": 390
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 49
+    "time": 0
   }
 ]
