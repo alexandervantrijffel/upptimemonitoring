@@ -81,7 +81,7 @@
   },
   {
     "name": "ProSim Downloads",
-    "url": "http://cdndl.prosim-ar.com/ProSimB738/",
+    "url": "http://cdndl.prosim-ar.com/ProSimB738",
     "slug": "pro-sim-downloads",
     "status": "up",
     "uptime": "100.00",
@@ -92,7 +92,39 @@
     "url": "$SECRETURL_PROSIM_LICAPI1",
     "slug": "pro-sim-lic-api-1",
     "status": "down",
-    "uptime": "0.12",
+    "uptime": "0.02",
     "time": 0
+  },
+  {
+    "name": "Deloitte Process X-Ray",
+    "url": "https://processxray.deloitte.com",
+    "slug": "deloitte-process-x-ray",
+    "status": "down",
+    "uptime": "4.87",
+    "time": 0
+  },
+  {
+    "name": "TOP Onions",
+    "url": "https://www.toponions.com",
+    "slug": "top-onions",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1043
+  },
+  {
+    "name": "TOP Taste",
+    "url": "https://www.top-taste.com",
+    "slug": "top-taste",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1284
+  },
+  {
+    "name": "Lion Foods",
+    "url": "https://lionfoods.nl",
+    "slug": "lion-foods",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 1780
   }
 ]
