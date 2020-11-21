@@ -25,11 +25,11 @@ sites:
   - name: ProSim Shop
     url: https://shop.prosim-ar.com
   - name: ProSim Downloads
-    url: http://cdndl.prosim-ar.com/ProSimB738
+    url: https://cdndl.prosim-ar.com/ProSimB738
   - name: ProSim lic API#1
     url: $SECRETURL_PROSIM_LICAPI1
   - name: Deloitte Process X-Ray
-    url: https://processxray.deloitte.com/x/process-x-ray/
+    url: https://processxray.deloitte.com/x/process-x-ray
   - name: TOP Onions
     url: https://www.toponions.com
   - name: TOP Taste
