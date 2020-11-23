@@ -4,55 +4,55 @@
     "url": "https://structura.ws",
     "slug": "structura",
     "status": "up",
-    "uptime": "100.00",
-    "time": 210
+    "uptime": "100.00%",
+    "time": 220
   },
   {
     "name": "Last Noted Web",
     "url": "https://lastnoted.com",
     "slug": "last-noted-web",
     "status": "up",
-    "uptime": "100.00",
-    "time": 269
+    "uptime": "100.00%",
+    "time": 254
   },
   {
     "name": "Last Noted Eventreporter",
     "url": "https://lastnoted.com/eventreporter",
     "slug": "last-noted-eventreporter",
     "status": "up",
-    "uptime": "100.00",
-    "time": 535
+    "uptime": "100.00%",
+    "time": 522
   },
   {
     "name": "Last Noted Eventsink",
     "url": "https://lastnoted.com/eventsink",
     "slug": "last-noted-eventsink",
     "status": "up",
-    "uptime": "100.00",
-    "time": 535
+    "uptime": "100.00%",
+    "time": 522
   },
   {
     "name": "Smith and Doe Web",
     "url": "https://www.smithanddoe.com",
     "slug": "smith-and-doe-web",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1033
+    "uptime": "100.00%",
+    "time": 1028
   },
   {
     "name": "Smith and Doe Privacy API",
     "url": "https://www.smithanddoe.com/privacy/API/QuickScanModel",
     "slug": "smith-and-doe-privacy-api",
     "status": "up",
-    "uptime": "100.00",
-    "time": 303
+    "uptime": "100.00%",
+    "time": 300
   },
   {
     "name": "Craftify",
     "url": "https://craftify.nl",
     "slug": "craftify",
     "status": "up",
-    "uptime": "100.00",
+    "uptime": "100.00%",
     "time": 465
   },
   {
@@ -60,7 +60,7 @@
     "url": "https://prosim-ar.com",
     "slug": "pro-sim-home",
     "status": "up",
-    "uptime": "100.00",
+    "uptime": "100.00%",
     "time": 898
   },
   {
@@ -68,31 +68,31 @@
     "url": "https://forum.prosim-ar.com",
     "slug": "pro-sim-forum",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1081
+    "uptime": "100.00%",
+    "time": 1064
   },
   {
     "name": "ProSim Shop",
     "url": "https://shop.prosim-ar.com",
     "slug": "pro-sim-shop",
     "status": "up",
-    "uptime": "100.00",
-    "time": 851
+    "uptime": "100.00%",
+    "time": 866
   },
   {
     "name": "ProSim Downloads",
     "url": "https://cdndl.prosim-ar.com/ProSimB738",
     "slug": "pro-sim-downloads",
     "status": "up",
-    "uptime": "100.00",
-    "time": 172
+    "uptime": "100.00%",
+    "time": 162
   },
   {
     "name": "ProSim lic API#1",
     "url": "$SECRETURL_PROSIM_LICAPI1",
     "slug": "pro-sim-lic-api-1",
     "status": "down",
-    "uptime": "100.00",
+    "uptime": "98.24%",
     "time": 0
   },
   {
@@ -100,7 +100,7 @@
     "url": "https://processxray.deloitte.com/x/process-x-ray",
     "slug": "deloitte-process-x-ray",
     "status": "down",
-    "uptime": "100.00",
+    "uptime": "100.00%",
     "time": 0
   },
   {
@@ -108,23 +108,23 @@
     "url": "https://www.toponions.com",
     "slug": "top-onions",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1117
+    "uptime": "100.00%",
+    "time": 1112
   },
   {
     "name": "TOP Taste",
     "url": "https://www.top-taste.com",
     "slug": "top-taste",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1292
+    "uptime": "100.00%",
+    "time": 1257
   },
   {
     "name": "Lion Foods",
     "url": "https://lionfoods.nl",
     "slug": "lion-foods",
     "status": "up",
-    "uptime": "100.00",
-    "time": 1820
+    "uptime": "100.00%",
+    "time": 1838
   }
 ]
