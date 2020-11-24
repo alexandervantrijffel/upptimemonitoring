@@ -92,7 +92,7 @@
     "url": "$SECRETURL_PROSIM_LICAPI1",
     "slug": "pro-sim-lic-api-1",
     "status": "down",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "time": 0
   },
   {
@@ -107,17 +107,17 @@
     "name": "TOP Onions",
     "url": "https://www.toponions.com",
     "slug": "top-onions",
-    "status": "up",
-    "uptime": "99.50%",
-    "time": 985
+    "status": "down",
+    "uptime": "99.49%",
+    "time": 910
   },
   {
     "name": "TOP Taste",
     "url": "https://www.top-taste.com",
     "slug": "top-taste",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "time": 1128
+    "time": 1041
   },
   {
     "name": "Lion Foods",
