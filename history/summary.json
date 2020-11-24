@@ -107,17 +107,17 @@
     "name": "TOP Onions",
     "url": "https://www.toponions.com",
     "slug": "top-onions",
-    "status": "down",
-    "uptime": "99.49%",
-    "time": 910
+    "status": "up",
+    "uptime": "99.50%",
+    "time": 909
   },
   {
     "name": "TOP Taste",
     "url": "https://www.top-taste.com",
     "slug": "top-taste",
-    "status": "down",
+    "status": "up",
     "uptime": "99.51%",
-    "time": 1041
+    "time": 1054
   },
   {
     "name": "Lion Foods",
