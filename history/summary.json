@@ -92,23 +92,23 @@
     "url": "$SECRETURL_PROSIM_LICAPI1",
     "slug": "pro-sim-lic-api-1",
     "status": "down",
-    "uptime": "99.27%",
+    "uptime": "99.35%",
     "time": 0
   },
   {
     "name": "Deloitte Process X-Ray",
     "url": "https://processxray.deloitte.com/x/process-x-ray",
     "slug": "deloitte-process-x-ray",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 0
+    "time": 71
   },
   {
     "name": "TOP Onions",
     "url": "https://www.toponions.com",
     "slug": "top-onions",
     "status": "up",
-    "uptime": "99.15%",
+    "uptime": "99.24%",
     "time": 855
   },
   {
@@ -116,7 +116,7 @@
     "url": "https://www.top-taste.com",
     "slug": "top-taste",
     "status": "up",
-    "uptime": "99.17%",
+    "uptime": "99.26%",
     "time": 1013
   },
   {
