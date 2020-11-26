@@ -67,9 +67,9 @@
     "name": "ProSim Forum",
     "url": "https://forum.prosim-ar.com",
     "slug": "pro-sim-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 1075
+    "time": 1025
   },
   {
     "name": "ProSim Shop",
@@ -92,7 +92,7 @@
     "url": "$SECRETURL_PROSIM_LICAPI1",
     "slug": "pro-sim-lic-api-1",
     "status": "down",
-    "uptime": "99.44%",
+    "uptime": "99.52%",
     "time": 0
   },
   {
@@ -108,7 +108,7 @@
     "url": "https://www.toponions.com",
     "slug": "top-onions",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.44%",
     "time": 864
   },
   {
@@ -116,7 +116,7 @@
     "url": "https://www.top-taste.com",
     "slug": "top-taste",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.45%",
     "time": 1021
   },
   {
