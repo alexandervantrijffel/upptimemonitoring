@@ -92,7 +92,7 @@
     "url": "$SECRETURL_PROSIM_LICAPI1",
     "slug": "pro-sim-lic-api-1",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "time": 44
   },
   {
@@ -115,16 +115,16 @@
     "name": "TOP Taste",
     "url": "https://www.top-taste.com",
     "slug": "top-taste",
-    "status": "down",
-    "uptime": "99.55%",
-    "time": 1143
+    "status": "up",
+    "uptime": "99.56%",
+    "time": 1137
   },
   {
     "name": "Lion Foods",
     "url": "https://lionfoods.nl",
     "slug": "lion-foods",
-    "status": "down",
-    "uptime": "99.67%",
-    "time": 1578
+    "status": "up",
+    "uptime": "99.61%",
+    "time": 1555
   }
 ]
