@@ -115,16 +115,16 @@
     "name": "TOP Taste",
     "url": "https://www.top-taste.com",
     "slug": "top-taste",
-    "status": "up",
-    "uptime": "99.70%",
-    "time": 1046
+    "status": "down",
+    "uptime": "99.69%",
+    "time": 1004
   },
   {
     "name": "Lion Foods",
     "url": "https://lionfoods.nl",
     "slug": "lion-foods",
     "status": "down",
-    "uptime": "100.00%",
+    "uptime": "99.94%",
     "time": 1671
   }
 ]
