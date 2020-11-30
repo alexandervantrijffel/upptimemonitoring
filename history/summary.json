@@ -91,9 +91,9 @@
     "name": "ProSim lic API#1",
     "url": "$SECRETURL_PROSIM_LICAPI1",
     "slug": "pro-sim-lic-api-1",
-    "status": "down",
+    "status": "up",
     "uptime": "99.71%",
-    "time": 0
+    "time": 26
   },
   {
     "name": "Deloitte Process X-Ray",
