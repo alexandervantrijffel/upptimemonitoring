@@ -1,7 +1,7 @@
 url: $SECRETURL_PROSIM_LICAPI1  
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2020-11-29T23:02:47.391Z
+status: up
+code: 200
+responseTime: 509
+lastUpdated: 2020-11-30T00:55:23.026Z
 startTime: Sat Nov 21 2020 14:54:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
