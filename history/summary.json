@@ -13,7 +13,7 @@
     "slug": "last-noted-web",
     "status": "up",
     "uptime": "100.00%",
-    "time": 236
+    "time": 230
   },
   {
     "name": "Last Noted Eventreporter",
@@ -21,7 +21,7 @@
     "slug": "last-noted-eventreporter",
     "status": "up",
     "uptime": "100.00%",
-    "time": 508
+    "time": 501
   },
   {
     "name": "Last Noted Eventsink",
@@ -29,7 +29,7 @@
     "slug": "last-noted-eventsink",
     "status": "up",
     "uptime": "100.00%",
-    "time": 507
+    "time": 500
   },
   {
     "name": "Smith and Doe Web",
@@ -37,7 +37,7 @@
     "slug": "smith-and-doe-web",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1044
+    "time": 1042
   },
   {
     "name": "Smith and Doe Privacy API",
@@ -45,7 +45,7 @@
     "slug": "smith-and-doe-privacy-api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 299
+    "time": 297
   },
   {
     "name": "Craftify",
@@ -53,7 +53,7 @@
     "slug": "craftify",
     "status": "up",
     "uptime": "99.87%",
-    "time": 436
+    "time": 439
   },
   {
     "name": "ProSim Home",
@@ -61,7 +61,7 @@
     "slug": "pro-sim-home",
     "status": "up",
     "uptime": "100.00%",
-    "time": 937
+    "time": 932
   },
   {
     "name": "ProSim Forum",
@@ -69,7 +69,7 @@
     "slug": "pro-sim-forum",
     "status": "up",
     "uptime": "100.00%",
-    "time": 997
+    "time": 994
   },
   {
     "name": "ProSim Shop",
@@ -77,7 +77,7 @@
     "slug": "pro-sim-shop",
     "status": "up",
     "uptime": "100.00%",
-    "time": 907
+    "time": 902
   },
   {
     "name": "ProSim Downloads",
@@ -85,7 +85,7 @@
     "slug": "pro-sim-downloads",
     "status": "up",
     "uptime": "100.00%",
-    "time": 152
+    "time": 146
   },
   {
     "name": "ProSim lic API#1",
@@ -93,7 +93,7 @@
     "slug": "pro-sim-lic-api-1",
     "status": "up",
     "uptime": "99.73%",
-    "time": 26
+    "time": 44
   },
   {
     "name": "Deloitte Process X-Ray",
@@ -101,7 +101,7 @@
     "slug": "deloitte-process-x-ray",
     "status": "up",
     "uptime": "100.00%",
-    "time": 319
+    "time": 343
   },
   {
     "name": "TOP Onions",
@@ -109,22 +109,22 @@
     "slug": "top-onions",
     "status": "up",
     "uptime": "99.69%",
-    "time": 896
+    "time": 902
   },
   {
     "name": "TOP Taste",
     "url": "https://www.top-taste.com",
     "slug": "top-taste",
-    "status": "down",
-    "uptime": "99.69%",
-    "time": 1004
+    "status": "up",
+    "uptime": "99.55%",
+    "time": 1187
   },
   {
     "name": "Lion Foods",
     "url": "https://lionfoods.nl",
     "slug": "lion-foods",
     "status": "down",
-    "uptime": "99.94%",
-    "time": 1671
+    "uptime": "99.80%",
+    "time": 1578
   }
 ]
