@@ -52,16 +52,16 @@
     "url": "https://craftify.nl",
     "slug": "craftify",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.87%",
     "time": 436
   },
   {
     "name": "ProSim Home",
     "url": "https://prosim-ar.com",
     "slug": "pro-sim-home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 984
+    "time": 932
   },
   {
     "name": "ProSim Forum",
@@ -92,7 +92,7 @@
     "url": "$SECRETURL_PROSIM_LICAPI1",
     "slug": "pro-sim-lic-api-1",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.73%",
     "time": 26
   },
   {
@@ -108,7 +108,7 @@
     "url": "https://www.toponions.com",
     "slug": "top-onions",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.68%",
     "time": 896
   },
   {
@@ -116,7 +116,7 @@
     "url": "https://www.top-taste.com",
     "slug": "top-taste",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.69%",
     "time": 1046
   },
   {
