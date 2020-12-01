@@ -108,23 +108,23 @@
     "url": "https://www.toponions.com",
     "slug": "top-onions",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "time": 902
   },
   {
     "name": "TOP Taste",
     "url": "https://www.top-taste.com",
     "slug": "top-taste",
-    "status": "down",
-    "uptime": "99.55%",
-    "time": 1098
+    "status": "up",
+    "uptime": "96.67%",
+    "time": 1097
   },
   {
     "name": "Lion Foods",
     "url": "https://lionfoods.nl",
     "slug": "lion-foods",
-    "status": "down",
-    "uptime": "99.61%",
-    "time": 1477
+    "status": "up",
+    "uptime": "96.73%",
+    "time": 1464
   }
 ]
