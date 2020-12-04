@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 223,
-    "timeDay": 105,
-    "timeWeek": 166,
-    "timeMonth": 223,
-    "timeYear": 223
+    "time": 220,
+    "timeDay": 151,
+    "timeWeek": 164,
+    "timeMonth": 220,
+    "timeYear": 220
   },
   {
     "name": "Last Noted Web",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 76,
-    "timeWeek": 200,
-    "timeMonth": 227,
-    "timeYear": 227
+    "time": 220,
+    "timeDay": 53,
+    "timeWeek": 197,
+    "timeMonth": 220,
+    "timeYear": 220
   },
   {
     "name": "Last Noted Eventreporter",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1287,
-    "timeDay": 6925,
-    "timeWeek": 2623,
-    "timeMonth": 1287,
-    "timeYear": 1287
+    "time": 1251,
+    "timeDay": 361,
+    "timeWeek": 2622,
+    "timeMonth": 1251,
+    "timeYear": 1251
   },
   {
     "name": "Last Noted Eventsink",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 511,
+    "time": 504,
     "timeDay": 359,
-    "timeWeek": 455,
-    "timeMonth": 511,
-    "timeYear": 511
+    "timeWeek": 454,
+    "timeMonth": 504,
+    "timeYear": 504
   },
   {
     "name": "Smith and Doe Web",
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1083,
-    "timeDay": 1048,
-    "timeWeek": 1048,
-    "timeMonth": 1083,
-    "timeYear": 1083
+    "time": 1077,
+    "timeDay": 935,
+    "timeWeek": 1044,
+    "timeMonth": 1077,
+    "timeYear": 1077
   },
   {
     "name": "Smith and Doe Privacy API",
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 265,
-    "timeWeek": 282,
-    "timeMonth": 308,
-    "timeYear": 308
+    "time": 306,
+    "timeDay": 257,
+    "timeWeek": 279,
+    "timeMonth": 306,
+    "timeYear": 306
   },
   {
     "name": "Craftify",
@@ -105,11 +105,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 482,
-    "timeDay": 488,
-    "timeWeek": 478,
-    "timeMonth": 482,
-    "timeYear": 482
+    "time": 480,
+    "timeDay": 438,
+    "timeWeek": 471,
+    "timeMonth": 480,
+    "timeYear": 480
   },
   {
     "name": "ProSim Home",
@@ -121,11 +121,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1039,
-    "timeDay": 1164,
-    "timeWeek": 1118,
-    "timeMonth": 1039,
-    "timeYear": 1039
+    "time": 1046,
+    "timeDay": 1189,
+    "timeWeek": 1131,
+    "timeMonth": 1046,
+    "timeYear": 1046
   },
   {
     "name": "ProSim Forum",
@@ -137,11 +137,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1040,
-    "timeDay": 994,
-    "timeWeek": 901,
-    "timeMonth": 1040,
-    "timeYear": 1040
+    "time": 1029,
+    "timeDay": 756,
+    "timeWeek": 1018,
+    "timeMonth": 1029,
+    "timeYear": 1029
   },
   {
     "name": "ProSim Shop",
@@ -153,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 934,
-    "timeDay": 720,
-    "timeWeek": 881,
-    "timeMonth": 934,
-    "timeYear": 934
+    "time": 928,
+    "timeDay": 810,
+    "timeWeek": 864,
+    "timeMonth": 928,
+    "timeYear": 928
   },
   {
     "name": "ProSim Downloads",
@@ -169,27 +169,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 143,
-    "timeDay": 36,
-    "timeWeek": 109,
-    "timeMonth": 143,
-    "timeYear": 143
+    "time": 139,
+    "timeDay": 53,
+    "timeWeek": 93,
+    "timeMonth": 139,
+    "timeYear": 139
   },
   {
     "name": "ProSim lic API#1",
     "url": "$SECRETURL_PROSIM_LICAPI1",
     "slug": "pro-sim-lic-api-1",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 408,
-    "timeDay": 368,
-    "timeWeek": 408,
-    "timeMonth": 408,
-    "timeYear": 408
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 401,
+    "timeDay": 371,
+    "timeWeek": 401,
+    "timeMonth": 401,
+    "timeYear": 401
   },
   {
     "name": "Deloitte Process X-Ray",
@@ -201,58 +201,58 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 869,
-    "timeDay": 807,
-    "timeWeek": 881,
-    "timeMonth": 869,
-    "timeYear": 869
+    "time": 863,
+    "timeDay": 813,
+    "timeWeek": 872,
+    "timeMonth": 863,
+    "timeYear": 863
   },
   {
     "name": "TOP Onions",
     "url": "https://www.toponions.com",
     "slug": "top-onions",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
-    "time": 1058,
-    "timeDay": 953,
-    "timeWeek": 1019,
-    "timeMonth": 1058,
-    "timeYear": 1058
+    "uptime": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 1054,
+    "timeDay": 998,
+    "timeWeek": 1017,
+    "timeMonth": 1054,
+    "timeYear": 1054
   },
   {
     "name": "TOP Taste",
     "url": "https://www.top-taste.com",
     "slug": "top-taste",
     "status": "up",
-    "uptime": "97.29%",
+    "uptime": "97.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.79%",
-    "uptimeMonth": "97.29%",
-    "uptimeYear": "97.29%",
-    "time": 1416,
-    "timeDay": 1392,
-    "timeWeek": 1664,
-    "timeMonth": 1416,
-    "timeYear": 1416
+    "uptimeMonth": "97.40%",
+    "uptimeYear": "97.40%",
+    "time": 1451,
+    "timeDay": 2336,
+    "timeWeek": 1792,
+    "timeMonth": 1451,
+    "timeYear": 1451
   },
   {
     "name": "Lion Foods",
     "url": "https://lionfoods.nl",
     "slug": "lion-foods",
     "status": "up",
-    "uptime": "97.34%",
+    "uptime": "97.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.46%",
-    "uptimeMonth": "97.34%",
-    "uptimeYear": "97.34%",
-    "time": 1666,
-    "timeDay": 1431,
-    "timeWeek": 1375,
-    "timeMonth": 1666,
-    "timeYear": 1666
+    "uptimeMonth": "97.44%",
+    "uptimeYear": "97.44%",
+    "time": 1651,
+    "timeDay": 1345,
+    "timeWeek": 1350,
+    "timeMonth": 1651,
+    "timeYear": 1651
   }
 ]
