@@ -132,37 +132,39 @@
     "url": "https://prosim-ar.com",
     "icon": "https://favicons.githubusercontent.com/prosim-ar.com",
     "slug": "pro-sim-home",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1030,
-    "timeDay": 1009,
-    "timeWeek": 1022,
-    "timeMonth": 1030,
-    "timeYear": 1030,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1362,
+    "timeDay": 5660,
+    "timeWeek": 2183,
+    "timeMonth": 1362,
+    "timeYear": 1362,
+    "dailyMinutesDown": {
+      "2020-12-09": 2
+    }
   },
   {
     "name": "ProSim Forum",
     "url": "https://forum.prosim-ar.com",
     "icon": "https://favicons.githubusercontent.com/forum.prosim-ar.com",
     "slug": "pro-sim-forum",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1184,
-    "timeDay": 3441,
-    "timeWeek": 1591,
-    "timeMonth": 1184,
-    "timeYear": 1184,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 2036,
+    "timeDay": 11782,
+    "timeWeek": 4577,
+    "timeMonth": 2036,
+    "timeYear": 2036,
     "dailyMinutesDown": {
-      "2020-12-09": 1
+      "2020-12-09": 22
     }
   },
   {
@@ -171,18 +173,18 @@
     "icon": "https://favicons.githubusercontent.com/shop.prosim-ar.com",
     "slug": "pro-sim-shop",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 942,
     "timeDay": 1199,
     "timeWeek": 934,
     "timeMonth": 942,
     "timeYear": 942,
     "dailyMinutesDown": {
-      "2020-12-09": 0
+      "2020-12-09": 22
     }
   },
   {
