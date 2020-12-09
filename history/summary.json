@@ -132,19 +132,19 @@
     "url": "https://prosim-ar.com",
     "icon": "https://favicons.githubusercontent.com/prosim-ar.com",
     "slug": "pro-sim-home",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1875,
     "timeDay": 9190,
     "timeWeek": 3746,
     "timeMonth": 1875,
     "timeYear": 1875,
     "dailyMinutesDown": {
-      "2020-12-09": 12
+      "2020-12-09": 2
     }
   },
   {
@@ -173,18 +173,18 @@
     "icon": "https://favicons.githubusercontent.com/shop.prosim-ar.com",
     "slug": "pro-sim-shop",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "97.76%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.83%",
+    "uptimeDay": "97.04%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 942,
     "timeDay": 1199,
     "timeWeek": 934,
     "timeMonth": 942,
     "timeYear": 942,
     "dailyMinutesDown": {
-      "2020-12-09": 32
+      "2020-12-09": 43
     }
   },
   {
@@ -210,18 +210,19 @@
     "url": "$SECRETURL_PROSIM_LICAPI1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pro-sim-lic-api-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
-    "time": 413,
-    "timeDay": 511,
-    "timeWeek": 409,
-    "timeMonth": 413,
-    "timeYear": 413,
+    "time": 1294,
+    "timeDay": 5311,
+    "timeWeek": 1622,
+    "timeMonth": 1294,
+    "timeYear": 1294,
     "dailyMinutesDown": {
+      "2020-12-09": 0,
       "2020-11-21": 36
     }
   },
