@@ -68,6 +68,10 @@ sites:
     url: https://lionfoods.nl
     expectedStatusCodes:
       - 200
+  - name: Lawline
+    url: https://lawline.se
+    expectedStatusCodes:
+      - 200
       
 user-agent: alexandervantrijffel # fit git api requests
 
