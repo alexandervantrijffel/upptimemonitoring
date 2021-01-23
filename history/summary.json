@@ -4,19 +4,19 @@
     "url": "https://structura.ws",
     "icon": "https://favicons.githubusercontent.com/structura.ws",
     "slug": "structura",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 230,
-    "timeWeek": 357,
-    "timeMonth": 235,
-    "timeYear": 220,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.96%",
+    "time": 256,
+    "timeDay": 1627,
+    "timeWeek": 690,
+    "timeMonth": 317,
+    "timeYear": 256,
     "dailyMinutesDown": {
-      "2021-01-23": 0
+      "2021-01-23": 37
     }
   },
   {
