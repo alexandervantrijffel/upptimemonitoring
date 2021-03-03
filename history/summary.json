@@ -85,19 +85,19 @@
     "url": "https://www.smithanddoe.com",
     "icon": "https://favicons.githubusercontent.com/www.smithanddoe.com",
     "slug": "smith-and-doe-web",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.32%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
-    "time": 1044,
-    "timeDay": 872,
-    "timeWeek": 848,
-    "timeMonth": 898,
-    "timeYear": 1044,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "96.73%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.97%",
+    "time": 1042,
+    "timeDay": 828,
+    "timeWeek": 840,
+    "timeMonth": 894,
+    "timeYear": 1042,
     "dailyMinutesDown": {
-      "2021-03-03": 24
+      "2021-03-03": 47
     }
   },
   {
@@ -105,19 +105,19 @@
     "url": "https://www.smithanddoe.com/privacy/API/QuickScanModel",
     "icon": "https://favicons.githubusercontent.com/www.smithanddoe.com",
     "slug": "smith-and-doe-privacy-api",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
-    "time": 302,
-    "timeDay": 256,
-    "timeWeek": 259,
-    "timeMonth": 297,
-    "timeYear": 302,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.97%",
+    "time": 301,
+    "timeDay": 264,
+    "timeWeek": 261,
+    "timeMonth": 296,
+    "timeYear": 301,
     "dailyMinutesDown": {
-      "2021-03-03": 23
+      "2021-03-03": 46
     }
   },
   {
