@@ -5,14 +5,14 @@
     "icon": "https://favicons.githubusercontent.com/structura.ws",
     "slug": "structura",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.07%",
+    "uptimeWeek": "99.54%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "99.74%",
+    "uptimeYear": "99.75%",
     "time": 692,
     "timeDay": 304,
-    "timeWeek": 933,
+    "timeWeek": 801,
     "timeMonth": 366,
     "timeYear": 692,
     "dailyMinutesDown": {
@@ -77,7 +77,7 @@
     "uptimeYear": "99.13%",
     "time": 788,
     "timeDay": 437,
-    "timeWeek": 2652,
+    "timeWeek": 446,
     "timeMonth": 1110,
     "timeYear": 788,
     "dailyMinutesDown": {
@@ -91,9 +91,9 @@
     "url": "https://www.smithanddoe.com",
     "icon": "https://favicons.githubusercontent.com/www.smithanddoe.com",
     "slug": "smith-and-doe-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -103,6 +103,7 @@
     "timeMonth": 858,
     "timeYear": 990,
     "dailyMinutesDown": {
+      "2021-05-14": 0,
       "2021-03-03": 47
     }
   },
@@ -111,9 +112,9 @@
     "url": "https://www.smithanddoe.com/privacy/API/QuickScanModel",
     "icon": "https://favicons.githubusercontent.com/www.smithanddoe.com",
     "slug": "smith-and-doe-privacy-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -123,6 +124,7 @@
     "timeMonth": 296,
     "timeYear": 299,
     "dailyMinutesDown": {
+      "2021-05-14": 0,
       "2021-03-03": 46
     }
   },
