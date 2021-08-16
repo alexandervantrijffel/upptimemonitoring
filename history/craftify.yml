@@ -1,7 +1,7 @@
 url: https://craftify.nl
-status: up
-code: 200
-responseTime: 528
-lastUpdated: 2021-08-15T23:03:35.818Z
+status: down
+code: 502
+responseTime: 429
+lastUpdated: 2021-08-16T19:10:48.003Z
 startTime: Sat Nov 21 2020 14:54:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
