@@ -1,7 +1,7 @@
 url: https://lionfoods.nl
-status: up
-code: 200
-responseTime: 4049
-lastUpdated: 2021-11-10T23:04:40.984Z
+status: down
+code: 502
+responseTime: 1771
+lastUpdated: 2021-11-11T13:48:37.342Z
 startTime: Sat Nov 21 2020 14:50:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
