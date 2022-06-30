@@ -1,7 +1,7 @@
 url: https://lastnoted.com/eventsink
-status: up
-code: 200
-responseTime: 226
-lastUpdated: 2022-06-30T10:52:34.143Z
+status: down
+code: 403
+responseTime: 19
+lastUpdated: 2022-06-30T11:35:07.641Z
 startTime: Sat Nov 21 2020 14:54:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
